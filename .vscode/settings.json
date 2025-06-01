@@ -1,0 +1,12 @@
+{
+    "python.testing.pytestArgs": [
+        ".",
+        "--browser_name=chrome",
+        "--language=en",
+        "--tb=line",
+        "-s",
+        "-v"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
